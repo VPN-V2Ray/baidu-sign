@@ -23,7 +23,7 @@ def shopLottery(bd):
         print(f'{bd.name} 知道商城抽奖信息：{lott["info"]}')
 
 def signTieba(bd):
-    "签到贴吧和知道"
+    "签到贴吧和知道TONY"
 
     print(f'开始为用户({bd.name})签到百度知道，百度知道，知道商城抽奖')
     
